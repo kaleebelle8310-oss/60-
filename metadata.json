@@ -1,0 +1,6 @@
+{
+  "name": "1시간 맞춤 운동 루틴 처방 및 기록 시각화",
+  "description": "자신의 성별, 연령, 신체 능력, 오늘 부위별 관절 통증 및 컨디션에 따른 과학적인 1시간 유산소 및 근육운동 루틴을 AI가 정교하게 설계해 주고, 운동 완료 역사를 다양한 반응형 차트로 시각화하는 개인 헬스 케어 트레이너 앱입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
